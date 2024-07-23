@@ -19,7 +19,7 @@ StockSage is a comprehensive portfolio management and stock market prediction pl
 - **Cloud Infrastructure**: AWS (EC2, S3, RDS)
 - **Payment Integration**: Stripe
 - **Machine Learning**: Scikit-learn, TensorFlow
-- **Natural Language Processing**: SpaCy, NLTK
+- **Natural Language Processing**: Google Gemini API
 
 ## Contributors
 
