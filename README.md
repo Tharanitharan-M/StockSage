@@ -27,6 +27,7 @@ StockSage is a comprehensive portfolio management and stock market prediction pl
 - **Reemaa Sajad Hyder**
 - **Reena Sajad Hyder**
 - **Tharanitharan Muthuthirumaran**
+- **Shashwath Udaya Kumar**
 
 ## Demo
 
