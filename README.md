@@ -12,7 +12,7 @@ StockSage is a comprehensive portfolio management and stock market prediction pl
 
 ## Technologies Used
 
-- **Backend**: Python, Flask
+- **Backend**: Python, Flask, Spring Boot
 - **Frontend**: React.js
 - **Database**: MySQL
 - **Authentication and Email Notifications**: AWS Cognito, AWS SES
